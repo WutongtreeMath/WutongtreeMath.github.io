@@ -1,0 +1,38 @@
+@font-face {
+    font-family: 'Comic-Sans-MS-Regular-2';
+    src: url("font/Comic-Sans-MS-Regular-2.ttf");
+  }
+@font-face {
+    font-family: 'komorebi-gothic-2';
+    src: url("font/komorebi-gothic-2.ttf");
+}
+@font-face {
+    font-family: 'komorebi-gothic-P-3';
+    src: url("font/komorebi-gothic-P-3.ttf");
+}
+body {
+    background-color: rgb(235, 245, 237) ;
+    font-family:'Comic sans MS','Comic-Sans-MS-Regular-2',Arial, Helvetica,sans-serif;
+    font-size:17px;
+}
+
+a {
+    text-decoration: none
+}
+
+.MathJax {
+  font-size: 1.3em;
+  }
+
+  .sticker {
+    position: fixed;
+    top: 10px;   /* 距离页面顶部的距离 */
+    right: 10px; /* 距离页面右侧的距离 */
+  }
+
+/* h2{
+  font-family:sans-serif;
+}
+h3{
+  font-family:sans-serif;
+} */
